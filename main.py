@@ -1,3 +1,5 @@
 import streamlit as st
  
-st.title('My First Streamlit App')
+st.title('まさきの筋トレ日記')
+
+st.text("とりあえずwebにデプロイできたっぽいよん")
